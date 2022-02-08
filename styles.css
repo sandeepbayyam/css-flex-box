@@ -1,0 +1,33 @@
+body {
+  background: #ffffff;
+}
+
+#d1 {
+  background-color: red;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+}
+
+#d2 {
+  background-color: yellow;
+  margin-left: auto;
+}
+
+#d3 {
+  background-color: yellow;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  height: 25px;
+  width: 25px;
+  margin: 10px;
+  padding: 10px;
+  font-size: 25px;
+  text-align: center;
+}
+.flex-container {
+  display: flex;
+  background-color: green;
+}
